@@ -18,6 +18,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vallem13&theme=radical&exclude={exclude}" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vallem13&theme=radical&exclude={exclude}" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vallem13&theme=radical" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vallem13&theme=radical&utcOffset={utcOffset}" />
 </div>
 
 
