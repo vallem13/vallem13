@@ -22,7 +22,7 @@
 </div>
 
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=lato&duration=1000&color=9170B4&multiline=true&width=435&lines=Languages+&+Skills)](https://git.io/typing-svg)
 
 
 <!-- ![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif) -->
