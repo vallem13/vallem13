@@ -4,9 +4,9 @@
 
 <p>My journey into the realm of full stack development is marked by a thirst for learning and my passion for problem-solving. While I might not have a laundry list of projects under my belt, I've been investing time in mastering the core technologies, including Python, JavaScript, React, and Redux, along with a few others.</p>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vallem13&hide=glsl,mako,php,shell&langs_count=10&theme=ocean_dark) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vallem13&hide=stars,prs,contribs&show_icons=true&theme=ocean_dark) -->
+<br></br>
 
-<div></div>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vallem13&hide=glsl,mako,php,shell&langs_count=10&theme=ocean_dark) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vallem13&hide=stars,prs,contribs&show_icons=true&theme=ocean_dark) -->
 
 <!--<div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallem13&hide=glsl,mako,php,shell&langs_count=10&theme=ocean_dark" alt="Top Langs" />
@@ -21,6 +21,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vallem13&theme=monokai&utcOffset={utcOffset}" />
 </div>
 
+<br></br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=lato&duration=1000&color=EB1F6A&multiline=true&width=435&lines=Languages+and+Skills)](https://git.io/typing-svg)
 
