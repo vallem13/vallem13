@@ -2,6 +2,8 @@
 
 <p>A Full Stack Software enthusiast with a drive to create innovative digital solutions. I'm drawn to the dynamic world of coding and its ability to bring ideas to life.</p>
 
+<p>My journey into the realm of full stack development is marked by a thirst for learning and my passion for problem-solving. While I might not have a laundry list of projects under my belt, I've been investing time in mastering the core technologies, including Python, JavaScript, React, and Redux, along with a few others.</p>
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vallem13&hide=glsl,mako,php,shell&langs_count=10&theme=ocean_dark) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vallem13&hide=stars,prs,contribs&show_icons=true&theme=ocean_dark) -->
 
 <div></div>
