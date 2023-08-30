@@ -8,10 +8,19 @@
 
 <div></div>
 
-<div style="display: flex; justify-content: center;">
+<!--<div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallem13&hide=glsl,mako,php,shell&langs_count=10&theme=ocean_dark" alt="Top Langs" />
     <img src="https://github-readme-stats.vercel.app/api?username=vallem13&hide=stars,prs,contribs&show_icons=true&theme=ocean_dark" alt="GitHub stats" />
+</div>-->
+
+<div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vallem13&theme=radical" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vallem13&theme=radical&exclude={exclude}" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vallem13&theme=radical&exclude={exclude}" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vallem13&theme=radical" />
 </div>
+
+
 
 
 
