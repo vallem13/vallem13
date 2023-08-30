@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=lato&pause=1000&color=BAD974&multiline=true&width=435&lines=Hi%2C+I'm+Alex!+A+Full-Stack+Software+Developer)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vallem13&hide=stars,prs,contribs&show_icons=true&theme=aura_dark)
 
