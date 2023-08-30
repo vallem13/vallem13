@@ -22,7 +22,9 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=lato&duration=1000&color=9170B4&multiline=true&width=435&lines=Languages+&+Skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=lato&duration=1000&color=EB1F6A&multiline=true&width=435&lines=Languages+and+Skills)](https://git.io/typing-svg)
+
+[![My Skills](https://skillicons.dev/icons?i=py,js,flask,react,redux,sqlite,sequelize,express,nodejs,postgres,css,html,aws,postman,github&perline=15)](https://skillicons.dev)
 
 
 <!-- ![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif) -->
