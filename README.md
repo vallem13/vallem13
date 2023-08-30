@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=lato&duration=1000&color=BAD974&multiline=true&width=435&lines=Hi%2C+I'm+Alex!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=lato&duration=1000&color=9170B4&multiline=true&width=435&lines=Hi%2C+I'm+Alex!)](https://git.io/typing-svg)
 
 <p>A Full Stack Software enthusiast with a drive to create innovative digital solutions. I'm drawn to the dynamic world of coding and its ability to bring ideas to life.</p>
 
